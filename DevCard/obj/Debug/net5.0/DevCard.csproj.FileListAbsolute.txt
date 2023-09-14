@@ -42,3 +42,7 @@ C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\DevCard.genruntimec
 C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\ref\DevCard.dll
 C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\DevCard.csproj.CopyComplete
 C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\Saman\source\repos\DevCard\DevCard\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
