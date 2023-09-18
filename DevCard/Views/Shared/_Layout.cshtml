@@ -5,7 +5,7 @@
 <partial name="Header" />
 	<header class="header text-center">
 		<div class="force-overflow">
-			<h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">حسین عباس آبادی</a></h1>
+			<h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Saman Falah</a></h1>
 
 			<nav class="navbar navbar-expand-lg navbar-dark">
 
@@ -16,11 +16,10 @@
 
 				<div id="navigation" class="collapse navbar-collapse flex-column">
 					<div class="profile-section pt-3 pt-lg-0">
-						<img class="profile-image mb-3 rounded-circle mx-auto" src="assets/images/me.jpeg" alt="image">
+						<img class="profile-image mb-3 rounded-circle mx-auto" src="~/images/sam.jpeg" alt="image">
 
 						<div class="bio mb-3">
-							سلام، حسین عباس آبادی هستم از موسسه آموزشی آتریا. به وبسایت شخصی من خوش
-							آمدید.
+							Hi! I'm Saman falah welcome to my portofio
 						</div>
 						<ul class="social-list list-inline py-2 mx-auto">
 							<li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
@@ -40,7 +39,7 @@
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="contact.html">
+							<a class="nav-link" asp-controller="Home" asp-action="Contact">
 								<i class="fas fa-envelope-open-text fa-fw ml-2"></i>ارتباط با ما
 							</a>
 						</li>
@@ -55,7 +54,12 @@
 	<script src="~/plugins/jquery-3.4.1.min.js"></script>
 	<script src="~/plugins/popper.min.js"></script>
 	<script src="~/plugins/bootstrap/js/bootstrap.min.js"></script>
+	@*<script src="~/lib/jquery/dist/jquery.js"></script>*@
+	@*<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+	<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+*@
 </body>
+
 <partial name="Footer" />
 
 </html>
